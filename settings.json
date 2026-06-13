@@ -6,9 +6,12 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "vanillasmpofzacryn.aternos.me
+",
+    "port": 62759
+
+,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
